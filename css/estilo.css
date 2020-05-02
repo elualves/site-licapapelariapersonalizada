@@ -1,0 +1,228 @@
+* {
+	margin: 0 auto;
+}
+.fundo_do_header {
+	width: 100%;
+	height: 150px;
+	background-color: #f20064;
+}
+.galeria_1 img {
+	width: 340px;
+	height: 320px;
+	margin-bottom: 15px;
+	border: 5px solid white;
+}
+.fundo_do_footer {
+	width: 100%;
+	height: 150px;
+	background-color: #f20064;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-size: .9em;
+	margin-bottom: auto;
+}
+.ctrl_footer {
+	margin-top: 30px;
+}
+.titulo_produtos {
+	font-size: 1.5em;
+	color: #f20064;
+	text-align: center;
+	margin-top: -100px;
+}
+.titulo_produtos_batman {
+	font-size: 1.4em;
+	color: yellow;
+	text-align: center;
+	margin-top: 10px;
+}
+.titulo_produtos_toy_story {
+	font-size: 1.4em;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+.titulo_produtos_homen_aranha {
+	font-size: 1.4em;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+.titulo_produtos_hulk {
+	font-size: 1.4em;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+.titulo_produtos_mickey {
+	font-size: 1.4em;
+	color: black;
+	text-align: center;
+	margin-top: 10px;
+}
+.fundo_batman {
+	background-color: black;
+	color: white;
+}
+.fundo_homem_aranha {
+	background-color: red;
+	color: white;
+}
+.fundo_toy_story {
+	background-color: blue;
+	color: black;
+}
+.fundo_hulk {
+	background-color: yellowgreen;
+}
+.fundo_mickey {
+	background-color: yellow;
+}
+.fundo_minions {
+	background-color: yellow;
+}
+.texto_branco {
+	color: white;
+}
+.ea a{
+	text-decoration: none;
+	color: white;
+}
+.produto {
+	font-size: 1.2em;
+	color: #f20064;
+}
+.voltar a{
+	position: fixed;
+	font-size: 1.4em;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 10px;
+	border: 2px solid #f20064;
+	border-radius: 10px;
+	color: #f20064;
+}
+.voltar {
+	text-align: left;
+}
+@media screen and (min-width: 310px){
+.some {
+	display: none;
+	}
+}
+@media screen and (min-width: 890px){
+.aparece {
+	display: block;
+	}
+}
+.borda {
+	border: 2px solid white;
+	border-radius: 10px;
+	width: 400px;
+	height: auto;
+	background-color: #f20064;
+	font-size: 1.6em;
+	text-align: justify;
+}
+.voltar a:hover {
+	background-color: #f20064;
+	color: white;
+}
+.sub_titulo {
+	text-align: center;
+}
+.tamnho_carrossel img {
+	margin-top: 30px;
+	border-radius: 50%;
+}
+.margin_top_-60 {
+	margin-top: -60px;
+}
+.logo img{
+	float: right;
+	margin-top: 30px;
+	margin-right: 40px;
+}
+
+.logo_face_lica img{
+	width: 40px;
+	height: 40px;
+}
+.margin_top_m_10 {
+	margin-top: -10px;
+}
+.margin_top_m_20 {
+	margin-top: -20px;
+}
+.margin_top_m_30 {
+	margin-top: -30px;
+}
+.margin_top_m_40 {
+	margin-top: -40px;
+}
+.margin_top_m_50 {
+	margin-top: -50px;
+}
+.margin_top_m_60 {
+	margin-top: -60px;
+}
+.margin_top_m_70 {
+	margin-top: -70px;
+}
+.margin_top_m_80 {
+	margin-top: -80px;
+}
+.margin_top_m_90 {
+	margin-top: -90px;
+}
+.margin_top_m_100 {
+	margin-top: -100px;
+}
+.margin_top_m_120 {
+	margin-top: -120px;
+}
+.margin_top_m_120 {
+	margin-top: -120px;
+}
+.margin_boton_m_80 {
+	margin-bottom: -80px;
+}
+.margin_boton_m_60 {
+	margin-bottom: -60px;
+}
+.margin_boton_m_190 {
+	margin-bottom: -190px;
+}
+.logo_icones_posicao img{
+	float: right;	
+}
+.logo_icones_posicao img:hover{
+	border:1px solid #f20064;	
+	border-radius: 10%;
+}
+.margin_right img{
+	margin-right: 65px;
+}
+.fundo_do_carrossel {
+	background-color: #f20064;
+	width: 100%;
+}
+.fundo_dos_icones {
+	background-color: white;
+	width: 100%;
+	height: 40px;
+}
+.fundo_do_corpo {
+	background-color: #f20064;
+	width: 100%;
+}
+.letras_branca {
+	color: white;
+}
+.letras_amarela {
+	color: yellow;
+}
+.letras_preta {
+	color: black;
+}
